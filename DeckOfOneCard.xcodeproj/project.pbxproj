@@ -12,6 +12,7 @@
 		21E43D3E1D33FE7A00283C4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21E43D3D1D33FE7A00283C4A /* Assets.xcassets */; };
 		21E43D411D33FE7A00283C4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21E43D3F1D33FE7A00283C4A /* LaunchScreen.storyboard */; };
 		21E43D491D33FF5F00283C4A /* CardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E43D481D33FF5F00283C4A /* CardViewController.swift */; };
+		21E43D4B1D34035800283C4A /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E43D4A1D34035800283C4A /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		21E43D401D33FE7A00283C4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21E43D421D33FE7A00283C4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		21E43D481D33FF5F00283C4A /* CardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CardViewController.swift; path = ../CardViewController.swift; sourceTree = "<group>"; };
+		21E43D4A1D34035800283C4A /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				21E43D361D33FE7A00283C4A /* AppDelegate.swift */,
 				21E43D481D33FF5F00283C4A /* CardViewController.swift */,
+				21E43D4A1D34035800283C4A /* Card.swift */,
 				21E43D3A1D33FE7A00283C4A /* Main.storyboard */,
 				21E43D3D1D33FE7A00283C4A /* Assets.xcassets */,
 				21E43D3F1D33FE7A00283C4A /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				21E43D491D33FF5F00283C4A /* CardViewController.swift in Sources */,
+				21E43D4B1D34035800283C4A /* Card.swift in Sources */,
 				21E43D371D33FE7A00283C4A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
