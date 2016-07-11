@@ -15,6 +15,7 @@
 		21E43D4B1D34035800283C4A /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E43D4A1D34035800283C4A /* Card.swift */; };
 		21E43D4D1D34055900283C4A /* CardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E43D4C1D34055900283C4A /* CardController.swift */; };
 		21E43D4F1D34099700283C4A /* NetworkController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E43D4E1D34099700283C4A /* NetworkController.swift */; };
+		21E43D511D341A2E00283C4A /* ImageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21E43D501D341A2E00283C4A /* ImageController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		21E43D4A1D34035800283C4A /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		21E43D4C1D34055900283C4A /* CardController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardController.swift; sourceTree = "<group>"; };
 		21E43D4E1D34099700283C4A /* NetworkController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkController.swift; sourceTree = "<group>"; };
+		21E43D501D341A2E00283C4A /* ImageController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				21E43D361D33FE7A00283C4A /* AppDelegate.swift */,
 				21E43D481D33FF5F00283C4A /* CardViewController.swift */,
+				21E43D501D341A2E00283C4A /* ImageController.swift */,
 				21E43D4A1D34035800283C4A /* Card.swift */,
 				21E43D4C1D34055900283C4A /* CardController.swift */,
 				21E43D4E1D34099700283C4A /* NetworkController.swift */,
@@ -150,6 +153,7 @@
 				21E43D4D1D34055900283C4A /* CardController.swift in Sources */,
 				21E43D4B1D34035800283C4A /* Card.swift in Sources */,
 				21E43D371D33FE7A00283C4A /* AppDelegate.swift in Sources */,
+				21E43D511D341A2E00283C4A /* ImageController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
